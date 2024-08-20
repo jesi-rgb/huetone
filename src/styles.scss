@@ -102,6 +102,7 @@ select {
 html {
   font-family: 'Inter', sans-serif;
   font-size: 14px;
+  font-variant-numeric: tabular-nums;
   color: var(--c-text-primary);
   background: var(--c-bg);
   -webkit-font-smoothing: antialiased;
